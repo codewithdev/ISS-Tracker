@@ -1,5 +1,5 @@
 # ISS-Tracker
-A Tkinter GUI application created to track the current position of International space station.
+A simple Tkinter GUI application created to track the current position of International space station.
 
 Library used: 
 
